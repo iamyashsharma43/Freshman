@@ -1,4 +1,4 @@
-Here’s a GitHub README file template for the *Freshman* project:
+
 
 ---
 
@@ -91,4 +91,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to customize further according to your project specifics!
